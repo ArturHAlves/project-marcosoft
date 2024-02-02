@@ -1,30 +1,27 @@
-# React + TypeScript + Vite
+# Projeto MarcoSoft
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto utiliza as tecnologias TypeScript e React para oferecer uma experiência eficiente e moderna.
 
-Currently, two official plugins are available:
+## Instruções de Execução:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Clone o repositório do GitHub:
 
-## Expanding the ESLint configuration
+`git clone https://github.com/<your-username>/project-marcosoft.git`
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+* Instale as dependências necessárias usando o npm:
 
-- Configure the top-level `parserOptions` property like this:
+`npm install`
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+* Visualizar projeto
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+`npm start`
+
+## Demostração do projeto
+
+![8f63f33a-bf5b-4a61-aa47-7ada75af37e6](https://github.com/ArturHAlves/ArturHAlves/assets/111790827/b7866aa4-c7c2-4f00-9c5b-e5d4d7dc9dd6)
+
+![image](https://github.com/ArturHAlves/ArturHAlves/assets/111790827/faac887d-4947-40d8-9893-d4375161ceca)
+
+![image](https://github.com/ArturHAlves/ArturHAlves/assets/111790827/950672ac-a138-486d-9036-0ce4ded608ce)
+
+
