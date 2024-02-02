@@ -18,6 +18,8 @@ const Links = [
   { href: "#howItWorks", label: "Sobre nós" },
   { href: "#plan", label: "Holerite" },
   { href: "/contato", label: "Contato" },
+  { href: "/localizacao", label: "Localização" },
+
 ];
 
 const NavLink = (props: NavLinkProps) => {
