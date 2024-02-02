@@ -1,4 +1,5 @@
 import About from "./components/About"
+import Contact from "./components/Contact"
 import Hero from "./components/Hero"
 import Holirite from "./components/Holerite"
 import NavBar from "./components/NavBar"
@@ -11,6 +12,7 @@ function App() {
     <Hero />
     <About />
     <Holirite />
+    <Contact />
     </>
   )
 }
