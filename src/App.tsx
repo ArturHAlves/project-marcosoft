@@ -1,4 +1,5 @@
 import Hero from "./components/Hero"
+import Holirite from "./components/Holerite"
 import NavBar from "./components/NavBar"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
     <NavBar />
     <Hero />
+    <Holirite />
     </>
   )
 }
