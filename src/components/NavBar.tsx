@@ -14,9 +14,9 @@ interface NavLinkProps {
 }
 
 const Links = [
-  { href: "/sobre", label: "Sobre" },
-  { href: "#howItWorks", label: "Como funciona" },
-  { href: "#plan", label: "Nossa empresa" },
+  { href: "/sobre", label: "Inicio" },
+  { href: "#howItWorks", label: "Sobre nós" },
+  { href: "#plan", label: "Holerite" },
   { href: "/contato", label: "Contato" },
 ];
 
